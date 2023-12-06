@@ -11,4 +11,8 @@ body {
     line-height: 1.6;
     color: #1a1717;
     background-color: #cabdee;
+
+    p {
+        text-align: justify;
+    }
 }
